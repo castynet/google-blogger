@@ -6,7 +6,7 @@
 
 ## the nukesafaris theme preview is available on
 
-[NukeSafaris](blog.genztech.xyz)
+[NukeSafaris](https://blog.genztech.xyz/)
 
 ### to do
 
